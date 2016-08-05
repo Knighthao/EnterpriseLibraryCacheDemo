@@ -1,1 +1,2 @@
 # EnterpriseLibraryCacheDemo
+个人使用企业缓存中的一个小demo
